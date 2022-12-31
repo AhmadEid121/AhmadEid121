@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadEid121
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python..
+- 🌱 I’m currently learning c++ and python..
 - 📫 ahmedmeid121@gmail.com
 
 <!---
