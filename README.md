@@ -48,15 +48,6 @@ Currently, I am actively bridging my enterprise database foundation into **Moder
 
 ---
 
-### 🤝 Institutional Scale Supported
-
-My production database and integration code supports mission-critical transaction traffic for:
-- **Tier-1 Commercial Banks:** Jordan Kuwait Bank (JKB), Jordan Ahli Bank (JAB), Safwa Islamic Bank, Al Rajhi Bank Jordan, JCB, and 13+ regional banks across Iraq, Yemen, and Syria.
-- **Mobile Financial Services:** Zain Cash, Orange Money, Dinarak, SwissExchange, Abu Sheikha Exchange.
-- **Humanitarian Disbursement:** UN World Food Programme (WFP), Jordan National Aid Fund (NAF), Qatar Charity.
-
----
-
 ### 📫 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/ahmad-m-eid](https://www.linkedin.com/in/ahmad-m-eid/)
