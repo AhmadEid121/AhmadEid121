@@ -12,16 +12,16 @@
 
 I am a **Fintech Integration & Oracle Database Engineer** with **4+ years of production experience** managing mission-critical payment switching architectures, core banking API services, and enterprise relational database infrastructure at **Middle East Payment Services (MEPS)**.
 
-I operate at the intersection of **enterprise middleware, financial transaction protocols, and database internals**—ensuring sub-second authorization latencies, zero-loss settlement reconciliation, and Central Bank compliance across regional banks, global card rails, and national digital wallets.
+I operate at the intersection of enterprise middleware, financial transaction protocols, and database internals, ensuring sub-second authorization latencies, zero-loss settlement reconciliation, and Central Bank compliance across regional banks, global card rails, and national digital wallets.
 
-Currently, I am actively bridging my enterprise database foundation into **Modern Cloud Data Platforms (Microsoft Fabric, OneLake), Apache Airflow orchestration, and real-time streaming architectures (Kafka, CDC)**.
+Currently, I am actively bridging my enterprise database foundation into **Modern Cloud Lakehouses (Databricks, Delta Lake, Microsoft Fabric), Apache Airflow orchestration, and distributed data pipelines**.
 
 ---
 
 ### ⚙️ Production Capital & Technical Moat
 
 - 💳 **Payment Switching & Financial Standards:** High-throughput switching engines enforcing the **ISO 8583** interchange protocol (MTI formats, bitmap parsing, STAN) across **Visa, Mastercard, American Express, UnionPay**, and regional switches (**AsiaPay Iraq**).
-- 🗄️ **Database Internals & PL/SQL Tuning:** Advanced Oracle Database (**11g/12c/19c/26ai**) engineering, bulk processing (`BULK COLLECT`, `FORALL`), deadlock resolution, execution plan cost optimization, and ACID compliance.
+- 🗄️ **Database Internals & PL/SQL Tuning:** Advanced Oracle Database (**11g/12c/19c/23ai**) engineering, bulk processing (`BULK COLLECT`, `FORALL`), deadlock resolution, execution plan cost optimization, and ACID compliance.
 - 🏦 **Core Banking & Service Handlers:** Authoring robust PL/SQL API handlers consuming SOAP/XML and REST requests to execute account reloads, customer profile updates, card lifecycle modifications, statements, installments, and bill payments with strict transactional idempotency.
 - 🏛️ **Regulatory Reporting & Compliance:** Automated SQL analytical reporting pipelines delivering **Central Bank of Jordan (CBJ) Quarterly Monitoring Reports (QMR)** and daily/monthly settlement audits for Tier-1 partner commercial banks.
 - 🐧 **Middleware & Production Forensics:** Oracle WebLogic Server administration (WAR deployments, JDBC connection pool tuning), Oracle Forms & Reports, and Python automation workflows for decoding raw ISO 8583 hex streams and XML payloads.
@@ -30,8 +30,8 @@ Currently, I am actively bridging my enterprise database foundation into **Moder
 
 ### 🚀 Current Technical Horizon & Active Focus
 
-- 🎯 **Oracle AI Database 26ai (1Z0-171):** Completing preparation for the official Oracle AI Database 26ai SQL Associate certification, focusing on Vector Search SQL primitives, JSON Relational Duality, and advanced analytic windowing.
-- ☁️ **Cloud Data Platforms (DP-700):** Scaling enterprise relational architectures into SaaS Lakehouses using **Microsoft Fabric** (OneLake, Delta Lake, Synapse Data Engineering).
+- 🧱 **Databricks Certified Data Engineer Associate:** Validates Lakehouse architecture, Delta Lake ACID transactions, PySpark DataFrame transformations, Unity Catalog governance, and production pipeline orchestration.
+- ☁️ **Cloud Data Platforms (Microsoft Fabric DP-700):** Scaling enterprise relational architectures into SaaS Lakehouses using **Microsoft Fabric** (OneLake, Delta Lake, Synapse Data Engineering).
 - 🔄 **DataOps & Pipeline Orchestration:** Engineering automated containerized data movement and quality pipelines with **Python (FastAPI, SQLAlchemy), Apache Airflow, Docker, and PostgreSQL**.
 
 ---
@@ -40,10 +40,11 @@ Currently, I am actively bridging my enterprise database foundation into **Moder
 
 | Domain | Technologies & Frameworks |
 |---|---|
-| **Databases & Engines** | `Oracle Database (11g/12c/19c/26ai)` `PL/SQL` `Advanced SQL` `MS SQL Server` `PostgreSQL` |
+| **Databases & Engines** | `Oracle Database (11g/12c/19c/23ai)` `PL/SQL` `Advanced SQL` `MS SQL Server` `PostgreSQL` |
+| **Distributed Systems & Lakehouse** | `Databricks` `Delta Lake` `Apache Spark (PySpark)` `Medallion Architecture` |
 | **Financial Protocols & Middleware** | `ISO 8583 Standard` `Oracle WebLogic Server` `SOAP / XML / WSDL` `SoapUI` `Oracle Forms & Reports` `RESTful APIs` |
 | **Backend & Automation** | `Python (FastAPI, SQLAlchemy, Pandas, Polars)` `Shell Scripting (Bash)` `Linux / Unix (Oracle Linux, RHEL)` |
-| **Data Platform & DataOps** | `Apache Airflow` `Docker` `Microsoft Fabric (In Progress)` `Apache Spark (Fundamentals)` `Kafka (Fundamentals)` |
+| **Data Platform & DataOps** | `Apache Airflow` `Docker` `Microsoft Fabric` `Kafka (Fundamentals)` `dbt (Fundamentals)` |
 | **Observability & BI** | `Zabbix Enterprise Monitoring` `Linux Log Forensics` `Power BI (DirectQuery)` |
 
 ---
